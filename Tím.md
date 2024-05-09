@@ -12,5 +12,5 @@ Rozdelenie úloh:
 
 
 Momentálny stav :
-  Kód, vytvorenie prototypu - rozpracované
+  Kód, vytvorenie prototypu - kompletné a nahrané
   Dokumentácia, vytvorenie posteru -                      //Maroš musí dopísať
