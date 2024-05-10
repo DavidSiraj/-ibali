@@ -1,8 +1,8 @@
 
 #include <WiFi.h>
 
-const char* ssid     = "Redmi Note 13";
-const char* password = "5we8%UCn";
+const char* ssid     = "Nahradiť vašou wifi názvom";
+const char* password = "Zadajte vaše heslo";
 
 
 WiFiServer server(80);
